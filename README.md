@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SabariGiri0044
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SabariGiri
+- 👀 I’m interested in testing
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on developing
+- 📫 How to reach me ... Email: vsabarigiri0044@gmail.com
 
 <!---
 SabariGiri0044/SabariGiri0044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
